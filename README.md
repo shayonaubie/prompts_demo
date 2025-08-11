@@ -1,2 +1,3 @@
-# prompts_demo
-Demo application for prompts using cursor rules
+# prompt_demo
+
+A new Flutter project.
